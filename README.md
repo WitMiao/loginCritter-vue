@@ -2,7 +2,7 @@
 
 ## [loginCritter](https://github.com/cgoldsby/LoginCritter) Vue Version
 
-![demo](\src\assets\img\demo.gif)
+![demo](/src/assets/img/demo.gif)
 
 ## Project setup
 ```
