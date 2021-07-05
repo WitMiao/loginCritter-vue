@@ -1,4 +1,6 @@
-# login-critter-vue
+
+
+## [loginCritter](https://github.com/cgoldsby/LoginCritter) Vue Version
 
 ## Project setup
 ```
